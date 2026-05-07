@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nil-shopon/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Nil Shopon](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Nil Shopon](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> নীল স্বপনের গভীরে আজ খুঁজছি আমি তোমায়
+> অচিন দেশের তারার আলোয় মন যে আমার হারায়
+> (আহা হা) মেঘের ভিড়ে লুকিয়ে তুমি করছো শুধু খেলা
+> অন্ধকারে একলা আমি কাটছে আমার বেলা
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
