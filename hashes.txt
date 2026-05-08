@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nil Shopon
+
+This log tracks the cryptographic history and versioning for the song **Nil Shopon** (nil-shopon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:07:48.813414 | `v1` | `e1ae10d409e3f15b00ca2d79bb65ce2af48707e0552d869b7e69c6a76f962e97` | `3b1452b7ebf56364eac9b68a20ae58b03e8dd69f03c471da7b9300d8424aa4ef` | `2026-05-08_nil-shopon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
